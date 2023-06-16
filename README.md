@@ -5,8 +5,29 @@
 ## Pictures
 <div align="center">
   <img src="images/checkouts.png" width="666" height="383">
-  <img src="images/checkout.png"> 
+  <img src="images/checkout.png" width="666" height="383"> 
 </div>
+<p align="center">
+  Stripe Checkout. I'd buy that hat tbh.
+</p>
+<div align="center">
+  <img src="images/paymentintent.png" width="666" height="383">
+</div>
+<p align="center">
+  Payment Intents
+</p>
+<div align="center">
+  <img src="images/customerinfo.png" width="666" height="383">
+</div>
+<p align="center">
+  Stored Customer Credit Card Information
+</p>
+<div align="center">
+  <img src="images/subscription.png" width="666" height="383">
+</div>
+<p align="center">
+  Subscriptions
+</p>
 
 ## Technologies
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
