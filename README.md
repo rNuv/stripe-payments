@@ -11,19 +11,19 @@
   Stripe Checkout. I'd buy that hat tbh.
 </p>
 <div align="center">
-  <img src="images/paymentintent.png" width="666" height="383">
+  <img src="images/paymentinte.png" width="666" height="383">
 </div>
 <p align="center">
   Payment Intents
 </p>
 <div align="center">
-  <img src="images/customerinfo.png" width="666" height="383">
+  <img src="images/customer" width="666" height="383">
 </div>
 <p align="center">
   Stored Customer Credit Card Information
 </p>
 <div align="center">
-  <img src="images/subscription.png" width="666" height="383">
+  <img src="images/subscriptuon" width="666" height="383">
 </div>
 <p align="center">
   Subscriptions
