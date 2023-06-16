@@ -17,13 +17,13 @@
   Payment Intents
 </p>
 <div align="center">
-  <img src="images/customer" width="666" height="383">
+  <img src="images/customer.png" width="666" height="383">
 </div>
 <p align="center">
   Stored Customer Credit Card Information
 </p>
 <div align="center">
-  <img src="images/subscriptuon" width="666" height="383">
+  <img src="images/subscriptuon.png" width="666" height="383">
 </div>
 <p align="center">
   Subscriptions
