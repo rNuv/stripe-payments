@@ -4,8 +4,8 @@
 
 ## Pictures
 <div align="center">
-  <img src="images/checkouts.png">
-  <img src="images/checkout.png">
+  <img src="images/checkouts.png" width="666" height="383">
+  <img src="images/checkout.png"> 
 </div>
 
 ## Technologies
