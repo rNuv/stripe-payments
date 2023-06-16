@@ -1,13 +1,14 @@
 import React, { useState } from "react";
 import { useStripe } from "@stripe/react-stripe-js";
 import { fetchFromAPI } from "./helpers";
+import dog from './dog.jpg'
 
 export function Checkout() {
   const stripe = useStripe();
   const [product, setProduct] = useState({
     name: "Hat",
     description: "Pug hat. A hat your pug will love.",
-    images: ["your-img"],
+    images: ["./dog.jpg"],
     amount: 799,
     currency: "usd",
     quantity: 0,
@@ -46,7 +47,7 @@ export function Checkout() {
         <h3>{product.name}</h3>
         <h4>Stripe Amount: {product.amount}</h4>
 
-        <img src={product.images[0]} width="250px" alt="product" />
+        <img src={dog} width="250px" alt="product" />
 
         <button
           className="btn btn-sm btn-warning"
